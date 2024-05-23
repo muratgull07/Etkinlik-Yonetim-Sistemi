@@ -1,3 +1,6 @@
+Sistemde bir etkinlik ve kullanıcı oluşturulabilir. Ve bu etkinliğe kullanıcı eklenebilir. Ama bir kullanıcıyı etkinliğe eklemeden önce ona bilet sayfasından bilet verilmelidir. Eğer bilet vermezsek hata alırız.
+
+
 ![Resim 1](https://github.com/muratgull07/Etkinlik-Yonetim-Sistemi/assets/148050387/3dcfcb1c-1f1f-4448-b53d-5c9adc4b5196)
 
 
